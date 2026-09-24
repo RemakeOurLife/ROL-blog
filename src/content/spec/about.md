@@ -1,18 +1,17 @@
-# 关于我
+# 关于
 
-你好，我是 **你的昵称**。目前从事后端 / 全栈开发，喜欢把踩过的坑和想明白的事写下来。
+这里是「氡」的记录空间，用来存放一些技术笔记和踩坑记录。
 
-## 这个博客
+## 关于本站
 
-- 用 [Astro](https://astro.build/) + [Fuwari](https://github.com/saicaca/fuwari) 搭建
-- 文章全部是 Markdown，托管在 Cloudflare Pages
-- 如果某篇文章帮你省了时间，欢迎到 GitHub 上聊聊
+- 使用 [Astro](https://astro.build/) + [Fuwari](https://github.com/saicaca/fuwari) 构建
+- 文章以 Markdown 撰写，托管在 Cloudflare Workers
+- 全站静态渲染，支持全文搜索、标签与分类归档
 
-## 联系方式
+## 联系
 
-- GitHub：[@your-username](https://github.com/your-username)
-- Email：[you@example.com](mailto:you@example.com)
+- GitHub：[@RemakeOurLife](https://github.com/RemakeOurLife)
 
-## 关于转载
+## 转载说明
 
 除特别注明外，本站文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议，转载请注明出处。
